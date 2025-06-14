@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LF Filtros</title>
+  <style>
+    body { font-family: Arial, sans-serif; background-color: #f4f9ff; color: #333; margin: 0; padding: 0; text-align: center; }
+    header { background-color: #0074cc; color: white; padding: 20px 0; }
+    section { padding: 20px; }
+    .btn { background-color: #0074cc; color: white; padding: 15px 25px; text-decoration: none; font-weight: bold; border-radius: 8px; display: inline-block; margin-top: 20px; }
+    .card { background: white; border-radius: 10px; padding: 20px; margin: 20px auto; max-width: 500px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>LF Filtros</h1>
+    <p>Manutenção de Bebedouros, Troca de Filtros e Máquinas de Gelo</p>
+  </header>
+  <section>
+    <div class="card">
+      <h2>Serviços</h2>
+      <ul style="text-align:left; max-width:400px; margin: 0 auto;">
+        <li>Troca de Filtros</li>
+        <li>Higienização de Bebedouros</li>
+        <li>Manutenção em Máquinas de Gelo</li>
+        <li>Certificado conforme ANVISA</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h2>Contato</h2>
+      <p>📞 (11) 91996-4795</p>
+      <p>📧 lffiltros.sp@gmail.com</p>
+      <a class="btn" href="https://wa.me/5511919964795?text=Olá!%20Tenho%20interesse%20nos%20serviços%20da%20LF%20Filtros.%20Podemos%20falar%3F" target="_blank">Fale Conosco no WhatsApp</a>
+    </div>
+    <div class="card">
+      <h2>Área de Atendimento</h2>
+      <p>Grande São Paulo</p>
+      <h3>Formas de Pagamento</h3>
+      <p>💳 Crédito / Débito / Pix</p>
+    </div>
+  </section>
+</body>
+</html>
